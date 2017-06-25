@@ -1,0 +1,8 @@
+git init lessons_learned
+
+Things I have learned at Bloc.io
+* [x]HTML
+* [x]CSS
+* [x]Git
+git init lessons_learned
+
