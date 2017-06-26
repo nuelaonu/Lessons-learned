@@ -5,4 +5,6 @@ Things I have learned at Bloc.io
 * [x]CSS
 * [x]Git
 git init lessons_learned
+git commit
+git push
 
